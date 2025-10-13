@@ -1,0 +1,24 @@
+{
+  "parentId": {
+    "sessionId": "0",
+    "id": "0"
+  },
+  "title": "Feature Plan",
+  "relativeTransform": {
+    "x": 1760.0,
+    "y": 0.0
+  },
+  "sectionMetadata": {
+    "width": 1680.0,
+    "height": 1260.0,
+    "backgroundColor": "#EADDEB"
+  },
+  "zeroFields": [
+    5008
+  ],
+  "nullFields": [],
+  "id": {
+    "sessionId": "1",
+    "id": "2"
+  }
+}
