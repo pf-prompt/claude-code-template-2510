@@ -20,5 +20,6 @@
   "id": {
     "sessionId": "1",
     "id": "2"
-  }
+  },
+  "frameType": 4
 }
